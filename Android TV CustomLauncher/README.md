@@ -1,4 +1,4 @@
-# Acer Custom Launcher
+# Android TV Custom Launcher
 
 A simple custom Home screen for Android TV: three compact app columns on the left, a full-screen wallpaper behind the interface, and a clock. The right side stays clear of app tiles.
 
