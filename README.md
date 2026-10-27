@@ -1,5 +1,5 @@
 
-# Hi, I'm Chaitanya Ch 👋
+# Hi, I'm Chaitanya Chennam 👋
 
 ### AI Engineer | Machine Learning • Deep Learning • Generative AI
 
